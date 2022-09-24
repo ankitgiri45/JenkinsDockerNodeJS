@@ -1,0 +1,14 @@
+{
+  "name": "firstnodejs",
+  "version": "1.0.0",
+  "description": "Creating first nodejs project to understand Docker and Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "ankitgiri45@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
